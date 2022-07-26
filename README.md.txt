@@ -1,1 +1,0 @@
-<h1>Projeto Hora do Dia!</h1>
